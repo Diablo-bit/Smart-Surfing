@@ -1,14 +1,5 @@
 # Smart Surfing
 
-[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Thamanmuthappa/Smart-Surfing?logo=github&style=social)](https://github.com/Thamanmuthappa/) [![GitHub last commit](https://img.shields.io/github/last-commit/Thamanmuthappa/Smart-Surfing?style=social&logo=git)](https://github.com/Thamanmuthappa/) [![GitHub stars](https://img.shields.io/github/stars/Thamanmuthappa/Smart-Surfing?style=social)](https://github.com/Thamanmuthappa/Smart-Surfing/stargazers) [![GitHub forks](https://img.shields.io/github/forks/Thamanmuthappa/Smart-Surfing?style=social&logo=git)](https://github.com/Thamanmuthappa/Smart_Surfing/network)
-
-<p align="center">
-  <img src="images/LOGO3.png" height="100px"></img>
-</p>
-
-#### Link for [demo](https://drive.google.com/drive/folders/1O4r344jpLkHPgaRsTAsxErdI_8OSG8bp) 
-[![Generic badge](https://img.shields.io/badge/view-video-orange)](https://drive.google.com/drive/folders/1O4r344jpLkHPgaRsTAsxErdI_8OSG8bp)
-
 # Introduction
 We all like to surf the web, but some times, we come up with certain keywords about which we don't have much information. We have to manually go to new tab and search for that specific word for more information, this process is unnecessarily time consuming.
 With **Smart Surfing** users can get relevant information on any selected text, without having to shift to a new tab.
@@ -66,11 +57,6 @@ $ git clone https://github.com/Thamanmuthappa/Smart-Surfing.git
 - Open Source
   - Creating an open source community who would maintain the API's called and implement new features.
 
-# Contributors
-- [Thaman Muthappa M N](https://github.com/Thamanmuthappa)
-- [Pratham Jain](https://github.com/pratham31012002)
-- [Vaibhav Bhartia](https://github.com/VaibhavBha)
-- [Rishi Malgwa](https://github.com/rishimalgwa)
 
 ## License
 
